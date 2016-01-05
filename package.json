@@ -1,0 +1,9 @@
+{
+  "name": "gulp_icons_boilerplate",
+  "version": "0.0.1",
+  "dependencies": {
+    "gulp": "^3.8.1",
+    "gulpicon": "^0.1.2",
+    "gulp-clean": "^0.3.1"
+  }
+}
