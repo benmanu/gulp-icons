@@ -1,6 +1,7 @@
 # Gulp Icons
 
 Buildchain for generating css icons from svg with png fallbacks using gulpicon.
+For config settings see [filamentgroup/grunticon](https://github.com/filamentgroup/grunticon).
 
 ## Requirements
 
