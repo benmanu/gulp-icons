@@ -18,3 +18,7 @@ Frontend dependencies:
 Using [Gulp](http://gulpjs.com/) to manage frontend tasks.
 
     $ gulp
+
+## Links
+
+ * For modularising gulp tasks compose the tasks using this structure [gulp-release-tasks](https://github.com/lfender6445/gulp-release-tasks)
